@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+
+    <string name="logout">Logout</string>
+    <string name="copyright">© 2023 Sabrina</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="message_login_page">Masukkan data anda</string>
+    <string name="title_login_page">Sudah siap untuk upgrade skill?</string>
+    <string name="signup">Daftar</string>
+    <string name="name">Nama</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="message_welcome_page">Bagikan Ceritamu Disini</string>
+    <string name="title_welcome_page">Selamat Datang Di Story App !</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logo">Logo</string>
+    <string name="username">Username</string>
+    <string name="desc">Description</string>
+    <string name="camera">Camera</string>
+    <string name="Gallery">Gallery</string>
+    <string name="Upload">Upload</string>
+    <string name="upstory">Upload Story!</string>
+    <string name="date">26/05/2023</string>
+    <string name="email_error">Email tidak sesuai</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="map">Maps</string>
+    <string name="reload">Muat Ulang!</string>
+    <string name="TimeOut">TimeOut</string>
+</resources>
